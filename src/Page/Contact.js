@@ -8,8 +8,13 @@ const Contact = () => {
     setFormState({...formState, [e.target.name]: e.target.value});
   };
 
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    console.log(formState);
+  }
+
   return ( 
-  <form >
+  <form onSubmit={handleSubmit}>
     <div className="mb-3">
   <label htmlFor="name" class="form-label">Full Name</label>
   <input type="text" name='name' className="form-control"  placeholder="Enter name here" defaultValue={formState.name} onChange={handleChange} />

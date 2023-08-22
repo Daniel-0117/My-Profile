@@ -9,6 +9,7 @@
   --dark: #333;
   --darker: #222;
   --active: rgb(175, 175, 175);
+  --overlay: rgba(255, 255, 255, 0.6);
 }
 
 html, body {
@@ -28,8 +29,22 @@ main {
   min-height: calc(100vh - 250px);
 }
 
-a {
+a  {
+  text-decoration: none;
+}
+
+a, li {
   text-decoration: none;
   color: var(--light);
+  opacity: 0.4;
+  transition: all 0.3s ease-in-out;
   
+}
+
+a:hover, li:hover{
+  opacity: 1;
+}
+
+h3 {
+  color: var(--darker);
 }

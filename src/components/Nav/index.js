@@ -5,11 +5,11 @@ import './style.css';
 const Nav = ({pages, currentPage, setCurrentPage}) => {
   return <nav className='nav d-flex justify-content-end align-items-center'>
     {pages.map(page => (
-        <a href='/#' key={page} className={`nav-link ${page === currentPage && 'active'}`}
+        <li href='/#' key={page} className={`nav-link ${page === currentPage && 'active'}`}
         onClick={() => setCurrentPage(page)}
         >
             {capitalize(page)}
-        </a>
+        </li>
     ))}
   </nav>;
 };

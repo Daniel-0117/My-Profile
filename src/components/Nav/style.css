@@ -1,11 +1,15 @@
 header .nav {
-   /* font-size: 1.2rem; */
+   font-size: 1.2rem; 
+   letter-spacing: 0.5em;
 }
 
 header .nav-link {
     text-decoration: none;
     color: var(--light);
     opacity: 0.6;
+    font-family: ;
+    cursor: pointer;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0.5);
 }
 
 header .nav-link:hover {
@@ -16,6 +20,7 @@ header .nav-link:hover {
 header .nav-link.active {
     color: var(--active);
     cursor: default;
+    text-shadow: 1px 1px 2px rgb(255, 255, 255, 0.5);
 }
 
 
