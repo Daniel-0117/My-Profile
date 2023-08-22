@@ -6,7 +6,7 @@ Live deployed link or Walkthrough:
 ![Static Badge](https://img.shields.io/badge/MIT-license?label=license&labelColor=%2332CD30&color=%23A020F0&link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit%2F)
 
 ## Description
-This project is my personal portfolio including all my past projects. 
+This project is my personal portfolio including pages about me, past projects, my resume, and finally a way to contact me. Links to projects within my repo and where else to find me are provided as well.
 
 
   ## Table of Contents
@@ -25,13 +25,13 @@ This project is my personal portfolio including all my past projects.
 - [Project requirements](#project-requirements)
 
 # HOME PAGE!
-![HOME PAGE]()
+![Home Page](./src/assets/readme/about-page.png)
 
-# OTHER PAGE!
-![OTHER PAGE]()
+# Portfolio Page!
+![Portfolio Page](./src/assets/readme/portfolio-page.png)
 
-# OTHER OTHER PAGE!
-![OTHER OTHER PAGE]()
+# Resume Page!
+![Resume Page](./src/assets/readme/resume-page.png)
 
 
 ## Technologies used!
@@ -44,7 +44,7 @@ We ended up using quite a few different things!
 - emailjs
 
 ## Credits
-
+Daniel Pacheco: https://github.com/Daniel-0117
 
 ## License
 ![Static Badge](https://img.shields.io/badge/MIT-license?label=license&labelColor=%2332CD30&color=%23A020F0&link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit%2F)
