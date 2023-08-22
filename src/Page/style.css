@@ -5,3 +5,10 @@ main h2 {
 .fa-user-circle {
     font-size: 6rem;
 }
+
+.skills .list-group-item {
+    background-color: transparent;
+    color: var(--light);
+    border-color: var(--dark);
+}
+
