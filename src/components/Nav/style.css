@@ -3,23 +3,24 @@ header .nav {
    letter-spacing: 0.5em;
 }
 
-header .nav-link {
+header .nav li {
     text-decoration: none;
     color: var(--light);
     opacity: 0.6;
     font-family: ;
     cursor: pointer;
     text-shadow: 2px 2px 2px rgb(0, 0, 0.5);
+    margin: 0 1rem;
 }
 
-header .nav-link:hover {
+header .nav li:hover {
     color: var(--light);
     opacity: 1;
 }
 
-header .nav-link.active {
+header .nav li.activated {
     color: var(--active);
-    cursor: default;
+    cursor: pointer;
     text-shadow: 1px 1px 2px rgb(255, 255, 255, 0.5);
 }
 
