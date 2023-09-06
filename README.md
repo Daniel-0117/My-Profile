@@ -1,7 +1,7 @@
 # My Personal Portfolio
 
 
-Live deployed link or Walkthrough: 
+Live deployed link or Walkthrough: https://daniel-0117.github.io/My-Profile/
 
 ![Static Badge](https://img.shields.io/badge/MIT-license?label=license&labelColor=%2332CD30&color=%23A020F0&link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit%2F)
 
