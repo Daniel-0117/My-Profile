@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/My-Profile/static/css/main.9dac396e.css",
-    "main.js": "/My-Profile/static/js/main.a69185fe.js",
+    "main.js": "/My-Profile/static/js/main.dc788f26.js",
     "static/media/Shonen Strong.png": "/My-Profile/static/media/Shonen Strong.254f9badc5232a4c5d4a.png",
     "static/media/Half Price Galaxy.png": "/My-Profile/static/media/Half Price Galaxy.aaf06c1e1c501bc89a39.png",
+    "static/media/Mechanicum Day Tracker.png": "/My-Profile/static/media/Mechanicum Day Tracker.f884d92391d5b044f46d.png",
+    "static/media/Shodan Code Quiz.png": "/My-Profile/static/media/Shodan Code Quiz.40da13da9da2ae972268.png",
     "static/media/Umai Foods.png": "/My-Profile/static/media/Umai Foods.2122e63da8a1c664e373.png",
     "static/media/Montain Cover.jpeg": "/My-Profile/static/media/Montain Cover.3feca9a272b8ad508cf7.jpeg",
+    "static/media/ReadME Generator.png": "/My-Profile/static/media/ReadME Generator.2e433a134a077ea40826.png",
     "index.html": "/My-Profile/index.html",
     "main.9dac396e.css.map": "/My-Profile/static/css/main.9dac396e.css.map",
-    "main.a69185fe.js.map": "/My-Profile/static/js/main.a69185fe.js.map"
+    "main.dc788f26.js.map": "/My-Profile/static/js/main.dc788f26.js.map"
   },
   "entrypoints": [
     "static/css/main.9dac396e.css",
-    "static/js/main.a69185fe.js"
+    "static/js/main.dc788f26.js"
   ]
 }
