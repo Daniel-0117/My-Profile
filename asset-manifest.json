@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/My-Profile/static/css/main.9dac396e.css",
-    "main.js": "/My-Profile/static/js/main.dc788f26.js",
+    "main.js": "/My-Profile/static/js/main.dbe4380f.js",
     "static/media/Shonen Strong.png": "/My-Profile/static/media/Shonen Strong.254f9badc5232a4c5d4a.png",
     "static/media/Half Price Galaxy.png": "/My-Profile/static/media/Half Price Galaxy.aaf06c1e1c501bc89a39.png",
     "static/media/Mechanicum Day Tracker.png": "/My-Profile/static/media/Mechanicum Day Tracker.f884d92391d5b044f46d.png",
     "static/media/Shodan Code Quiz.png": "/My-Profile/static/media/Shodan Code Quiz.40da13da9da2ae972268.png",
+    "static/media/ECommerce Backend.png": "/My-Profile/static/media/ECommerce Backend.3b3fad7abc254aabde1b.png",
     "static/media/Umai Foods.png": "/My-Profile/static/media/Umai Foods.2122e63da8a1c664e373.png",
     "static/media/Montain Cover.jpeg": "/My-Profile/static/media/Montain Cover.3feca9a272b8ad508cf7.jpeg",
+    "static/media/Social Network API.png": "/My-Profile/static/media/Social Network API.7cd9dcd553ecc3b8896d.png",
+    "static/media/Employee Tracker.png": "/My-Profile/static/media/Employee Tracker.bea23e21accb29963509.png",
     "static/media/ReadME Generator.png": "/My-Profile/static/media/ReadME Generator.2e433a134a077ea40826.png",
+    "static/media/Password Generator.png": "/My-Profile/static/media/Password Generator.e995ab202aa2183281f4.png",
     "index.html": "/My-Profile/index.html",
     "main.9dac396e.css.map": "/My-Profile/static/css/main.9dac396e.css.map",
-    "main.dc788f26.js.map": "/My-Profile/static/js/main.dc788f26.js.map"
+    "main.dbe4380f.js.map": "/My-Profile/static/js/main.dbe4380f.js.map"
   },
   "entrypoints": [
     "static/css/main.9dac396e.css",
-    "static/js/main.dc788f26.js"
+    "static/js/main.dbe4380f.js"
   ]
 }
