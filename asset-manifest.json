@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Profile/static/css/main.9dac396e.css",
-    "main.js": "/My-Profile/static/js/main.dbe4380f.js",
+    "main.css": "/My-Profile/static/css/main.e0cd9f03.css",
+    "main.js": "/My-Profile/static/js/main.9284c6b1.js",
     "static/media/Shonen Strong.png": "/My-Profile/static/media/Shonen Strong.254f9badc5232a4c5d4a.png",
     "static/media/Half Price Galaxy.png": "/My-Profile/static/media/Half Price Galaxy.aaf06c1e1c501bc89a39.png",
     "static/media/Mechanicum Day Tracker.png": "/My-Profile/static/media/Mechanicum Day Tracker.f884d92391d5b044f46d.png",
@@ -14,11 +14,11 @@
     "static/media/ReadME Generator.png": "/My-Profile/static/media/ReadME Generator.2e433a134a077ea40826.png",
     "static/media/Password Generator.png": "/My-Profile/static/media/Password Generator.e995ab202aa2183281f4.png",
     "index.html": "/My-Profile/index.html",
-    "main.9dac396e.css.map": "/My-Profile/static/css/main.9dac396e.css.map",
-    "main.dbe4380f.js.map": "/My-Profile/static/js/main.dbe4380f.js.map"
+    "main.e0cd9f03.css.map": "/My-Profile/static/css/main.e0cd9f03.css.map",
+    "main.9284c6b1.js.map": "/My-Profile/static/js/main.9284c6b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dac396e.css",
-    "static/js/main.dbe4380f.js"
+    "static/css/main.e0cd9f03.css",
+    "static/js/main.9284c6b1.js"
   ]
 }
