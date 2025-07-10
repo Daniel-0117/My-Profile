@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Profile/static/css/main.e0cd9f03.css",
-    "main.js": "/My-Profile/static/js/main.d72039ac.js",
+    "main.js": "/My-Profile/static/js/main.21315f10.js",
     "static/media/Shonen Strong.png": "/My-Profile/static/media/Shonen Strong.254f9badc5232a4c5d4a.png",
     "static/media/Igumorns Magical Emporium.png": "/My-Profile/static/media/Igumorns Magical Emporium.ee70beb6a2622e2b04e5.png",
     "static/media/Half Price Galaxy.png": "/My-Profile/static/media/Half Price Galaxy.aaf06c1e1c501bc89a39.png",
@@ -17,10 +17,10 @@
     "static/media/Habit Tracker.png": "/My-Profile/static/media/Habit Tracker.6fdc1fbafb98a23186d8.png",
     "index.html": "/My-Profile/index.html",
     "main.e0cd9f03.css.map": "/My-Profile/static/css/main.e0cd9f03.css.map",
-    "main.d72039ac.js.map": "/My-Profile/static/js/main.d72039ac.js.map"
+    "main.21315f10.js.map": "/My-Profile/static/js/main.21315f10.js.map"
   },
   "entrypoints": [
     "static/css/main.e0cd9f03.css",
-    "static/js/main.d72039ac.js"
+    "static/js/main.21315f10.js"
   ]
 }
